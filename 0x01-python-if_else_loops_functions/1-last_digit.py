@@ -24,3 +24,4 @@ elif mod < 6:
 
     print(f"Last digit of {number} is {mod} and is less than 6 and not 0")
 
+
